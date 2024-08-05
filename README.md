@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheen Ahad T C</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India</h3>
+<h3 align="center">A passionate Fullstack Web Application Developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952nnkkkr42h15n70hu49urn1ynlq06s98s29zp1fkq&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
